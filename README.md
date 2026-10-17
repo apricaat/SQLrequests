@@ -21,3 +21,8 @@
 | Инженерия | 500 000 |
 | Продажи | 200 000 |
 | Маркетинг | 150 000 |
+## результаты файла all join
+<img width="563" height="427" alt="image" src="https://github.com/user-attachments/assets/bcbfc8c1-4a41-4cd8-b6d5-54f741dc453b" />
+<img width="614" height="445" alt="image" src="https://github.com/user-attachments/assets/820b4ae0-d44c-49ab-b89d-f871b198a2d9" />
+
+
