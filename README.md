@@ -30,5 +30,20 @@
 ## файл 2cte.sql
 сравнивает зарплату сотрудника со средней по его отделу и помечает статус. Использует with Результат:
 <img width="668" height="211" alt="image" src="https://github.com/user-attachments/assets/3b07d994-4f8a-40d3-8ad4-e47640e16109" />
+## файл windows functions.sql
+
+Результаты:<br>
+
+<img width="602" height="201" alt="image" src="https://github.com/user-attachments/assets/60667cbc-8181-4551-b75c-a6272921f5be" />
+<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/c65e18e0-466d-4f41-a110-810e8682fcc6" />
+<img width="599" height="195" alt="image" src="https://github.com/user-attachments/assets/fb93935c-39f9-4ee9-ab8f-0ef55c93cee1" />
+<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/6c0c0331-2a56-45d1-b63a-c2944fb29686" />
+<img width="598" height="194" alt="image" src="https://github.com/user-attachments/assets/45010117-7b68-4426-be8e-9b094dba5982" />
+
+
+
+
+
+
 
 
