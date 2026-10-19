@@ -33,7 +33,11 @@
 ## файл windows functions.sql
 
 Результаты:<br>
-
+* Нумерует всех сотрудников от 1 до N по убыванию зарплаты.<br>
+* Считает ранг зарплаты внутри каждого отдела.<br>
+* Показывает зарплату предыдущего сотрудника в том же отделе.<br>
+* Показывает зарплату следующего сотрудника в отделе.<br>
+* Считает накопительную сумму зарплат в отделе по порядку.<br>
 <img width="602" height="201" alt="image" src="https://github.com/user-attachments/assets/60667cbc-8181-4551-b75c-a6272921f5be" />
 <img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/c65e18e0-466d-4f41-a110-810e8682fcc6" />
 <img width="599" height="195" alt="image" src="https://github.com/user-attachments/assets/fb93935c-39f9-4ee9-ab8f-0ef55c93cee1" />
