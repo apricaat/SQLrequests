@@ -27,5 +27,8 @@
 Работа с join (inner join, full join, right join, left join) и вывод следующих результатов:
 <img width="563" height="427" alt="image" src="https://github.com/user-attachments/assets/bcbfc8c1-4a41-4cd8-b6d5-54f741dc453b" />
 <img width="614" height="445" alt="image" src="https://github.com/user-attachments/assets/820b4ae0-d44c-49ab-b89d-f871b198a2d9" />
+## файл 2cte.sql
+сравнивает зарплату сотрудника со средней по его отделу и помечает статус.Результат:
+<img width="668" height="211" alt="image" src="https://github.com/user-attachments/assets/3b07d994-4f8a-40d3-8ad4-e47640e16109" />
 
 
