@@ -45,6 +45,12 @@
 <img width="598" height="194" alt="image" src="https://github.com/user-attachments/assets/45010117-7b68-4426-be8e-9b094dba5982" />
 
 
+## файл показнавыковагрегацииианалитики.sql
+одна строка с общей статистикой по компании
+<img width="676" height="75" alt="image" src="https://github.com/user-attachments/assets/15f327eb-b3d1-44a3-904c-e61d61b74c7e" />
+
+
+
 
 
 
